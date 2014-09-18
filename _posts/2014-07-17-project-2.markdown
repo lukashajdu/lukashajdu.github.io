@@ -1,12 +1,14 @@
 ---
 layout: default
+title: Webony
 modal-id: 2
 date: 2014-07-17
-img: cake.png
-alt: image-alt
+img: webony.png
+alt: Webony
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <h3>Owner/Manager/Lead developer</h3><p><i>September 2013 – Present</i><br/>Webony, Bratislava, Slovak Republic<br/><a href="http://webony.sk/" title="Webony">http://webony.sk/</a></p>
+duties: <ul><li>Sales, marketing, consultations</li><li>Maintaining professional relationships with the clients</li><li>Designing and developing user centred applications</li></ul>
+technologies: PHP, HTML, MySQL, JQuery, Yii framework, CodeIgniter, LDAP, Less, Bootstrap
+other: <h4>Projects</h4><div class="row"><div class="col-lg-4"><h5><a href="http://elfsport.sk/" title="Elfsport" target="_blank">Elfsport</a></h5><p><small>CMS</small></p><a href="http://elfsport.sk/" title="Elfsport" target="_blank"><img src="img/portfolio/elfsport.jpg" class="img-responsive img-centered img-polaroid" alt="Elfsport" /></a></div><div class="col-lg-4"><h5><a href="https://karta.stuba.sk" title="Klubová karta STU" target="_blank">Klubová karta STU</a></h5><p><small>Reservation system</small></p><a href="https://karta.stuba.sk" title="Klubová karta STU" target="_blank"><img src="img/portfolio/klubova-karta.jpg" class="img-responsive img-centered img-polaroid" alt="Klubová karta STU" /></a></div><div class="col-lg-4"><h5><a href="http://sport.stuba.sk" title="Sport STUBA" target="_blank">Sport STUBA</a></h5><p><small>CMS</small></p><a href="http://sport.stuba.sk" title="Sport STUBA" target="_blank"><img src="img/portfolio/sport-stuba.jpg" class="img-responsive img-centered img-polaroid" alt="Sport STU" /></a></div></div>
 
 ---

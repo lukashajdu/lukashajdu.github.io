@@ -1,12 +1,14 @@
 ---
 layout: default
+title: Creative Solutions
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
+img: creas.png
+alt: Creative Solutions
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <h3>Web Developer</h3><p><i>April 2011 – November 2012</i><br/>Creas Ltd., Bratislava, Slovak Republic<br/><a href="http://creas.sk/" title="CREAS">http://creas.sk/</a></p>
+duties: <ul><li>Developing web applications</li><li>Converting PSDs to CSS/XHTML cross-browser layouts</li><li>Converting layouts to CMS</li><li>Testing and optimising web applications</li><li>Identifying technical problems and finding and implementing solutions</li><li>Reporting to the project manager</li><li>Maintaining professional relationships with team members and clients</li></ul>
+technologies: PHP, HTML, MySQL, JavaScript, JQuery, Smarty, Less, Bootstrap, Apache, Photoshop, Microdata
+other: <h4>Projects</h4><div class="row"><div class="col-lg-4"><h5><a href="http://hudobnyobchod.sk/" title="Hudobný obchod" target="_blank">Hudobný obchod</a></h5><p><small>E-shop</small></p><a href="http://hudobnyobchod.sk/" title="Hudobný obchod" target="_blank"><img src="img/portfolio/hudobny-obchod.jpg" class="img-responsive img-centered img-polaroid" alt="Hudobný obchod" /></a></div><div class="col-lg-4"><h5><a href="http://www.suzie.sk/" title="Suzie" target="_blank">Suzie</a></h5><p><small>CMS</small></p><a href="http://www.suzie.sk/" title="Suzie" target="_blank"><img src="img/portfolio/suzie.jpg" class="img-responsive img-centered img-polaroid" alt="Suzie" /></a></div><div class="col-lg-4"><h5><a href="http://shop.hauerland.sk/" title="Hauerland e-shop" target="_blank">Hauerland E-shop</a></h5><p><small>E-shop</small></p><a href="http://shop.hauerland.sk/" title="Hauerland e-shop" target="_blank"><img src="img/portfolio/hauerland.jpg" class="img-responsive img-centered img-polaroid" alt="Hauerland e-shop" /></a></div></div>
 
 ---
