@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32fed2fc-f9a0-4fa7-a493-36655e229393" name="Default" comment="Default freelancer-theme">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/lukashajdu.github.io.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+    <list default="true" id="32fed2fc-f9a0-4fa7-a493-36655e229393" name="Default" comment="Google Analytics">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/js.html" afterPath="$PROJECT_DIR$/_includes/js.html" />
     </list>
     <ignored path="lukashajdu.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -353,7 +346,11 @@
       <created>1411074619852</created>
       <updated>1411074619852</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Google Analytics">
+      <created>1411075581358</created>
+      <updated>1411075581358</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -403,7 +400,8 @@
     <MESSAGE value="Default freelancer-theme" />
     <MESSAGE value="Unused data removed" />
     <MESSAGE value="Data update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data update" />
+    <MESSAGE value="Google Analytics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google Analytics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
